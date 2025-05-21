@@ -40,6 +40,6 @@ By day, I support ICT systems, manage infrastructure, and drive digital organiza
 
 ---
 
-> “Solving problems with code is more than a skill—it’s a mindset. I'm building tools that matter.”
+> “Let me be your debugger—in code and in life.”
 
 Thanks for visiting! 🌟
